@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mohammed-jendie
+- 👀 I’m interested in programing adn learning englsih
+- 🌱 I’m currently learning c++
+- 📫 How to reach me : you can chat me in @H9HH123 in telegram
+- ⚡ Fun fact:The first computer virus was created in 1983 and was called the "Elk Cloner." It infected Apple II systems through floppy disks and displayed a short poem about the virus on the screen
